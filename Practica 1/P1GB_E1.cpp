@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-//Practica realizada por Juan Manuel Muñoz del Cerro y Francisco Gonzalez Prieto
+//Practica realizada por Juan Manuel Muñoz del Cerro
 
 using namespace std;
 
