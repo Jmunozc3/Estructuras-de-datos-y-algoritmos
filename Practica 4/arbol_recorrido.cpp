@@ -1,7 +1,7 @@
 //
 // Created by cmestre on 17/04/2023.
 //
-//Práctica realizada por Francisco González Prieto y Juan Manuel Muñoz del Cerro
+//Práctica realizada por Juan Manuel Muñoz del Cerro
 
 #include "arbol_recorrido.h"
 
