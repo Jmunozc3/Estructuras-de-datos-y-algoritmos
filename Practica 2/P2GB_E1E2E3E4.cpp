@@ -2,9 +2,10 @@
 #include <vector>
 #include <chrono>
 #include <algorithm> // Necesario para std::swap
-
 using namespace std;
 using namespace std::chrono;
+
+// Practica realizada por Juan Manuel Muñoz
 
 // Función que toma una lista de números enteros y devuelve la suma de los números pares
 
