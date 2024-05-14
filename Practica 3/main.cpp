@@ -8,7 +8,7 @@ using namespace std;
 
 
 
-//Páctica realizada por Juan Manuel Muñoz del Cerro y Francisco González Prieto
+//Páctica realizada por Juan Manuel Muñoz del Cerro 
 
 
 int obtenerEntero() {
